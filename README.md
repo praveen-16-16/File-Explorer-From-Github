@@ -1,4 +1,4 @@
-This is a simple React application that displays a folder and file structure frokm GitHub. 
+This is a simple React application that displays a folder and file structure from GitHub. 
 
 🛠 Features
 Display folders and files in a structured way.
